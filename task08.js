@@ -37,3 +37,5 @@ function convertNumberToTime(number){
         console.log("no hours or minutes");
     }
 }
+
+convertNumberToTime(71)
