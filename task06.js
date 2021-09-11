@@ -1,4 +1,4 @@
-function maximumNumberCalc(firstNumber, secondNumber, thirdNumber){
+function maximumNumberCalc(){
     var maximumNumber = 0;
     var numberStoringArray = [];
 
@@ -14,3 +14,5 @@ function maximumNumberCalc(firstNumber, secondNumber, thirdNumber){
 
     return maximumNumber;
 }
+
+console.log(maximumNumberCalc(1,2,3,4,46,24,47));
