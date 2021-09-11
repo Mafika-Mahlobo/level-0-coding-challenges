@@ -26,3 +26,5 @@ function getVowels(string){
 
     console.log(output);
 }
+
+getVowels("Umizi");

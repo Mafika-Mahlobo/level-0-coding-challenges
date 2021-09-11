@@ -21,3 +21,5 @@ function getCommonLetters(str1, str2){
 
     console.log("Common letters: "+output);
 }
+
+getCommonLetters("house","computers");
