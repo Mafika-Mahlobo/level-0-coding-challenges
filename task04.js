@@ -7,3 +7,5 @@ function evenOrOdd(number){
     }
 }
 
+evenOrOdd(3);
+
